@@ -1,2 +1,4 @@
 Qn 1 => 6
+Qn 2 => lecturers
 Qn 3 => ExamQuestions.txt
+Qn 4 => Man4g3Gr0upsP3rm1ssi0nPr0p3rly
