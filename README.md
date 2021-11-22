@@ -1,1 +1,1 @@
-for those who just want answers and dont care about how to get it :D
+for legal reasons, this is for educational purposes only. use it at your own risk
