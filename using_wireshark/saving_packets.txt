@@ -1,0 +1,4 @@
+Qn 1 => No
+Qn 2 => live capture in progress
+Qn 3 => No
+Qn 4 => No
