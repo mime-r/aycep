@@ -1,5 +1,5 @@
-Qn 1 => ??
-Qn 2 => ??
+Qn 1 => 62
+Qn 2 => 13
 
 Steps:
 1. grep -o ".*.*.*:T.*" newusers.log | sort -u
