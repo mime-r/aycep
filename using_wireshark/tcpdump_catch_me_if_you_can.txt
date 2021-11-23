@@ -2,6 +2,6 @@ Qn 1 => 6
 Qn 2 => avengers.com
 Qn 3 => 192.168.1.107
 Qn 4 => HowYouManageToFindMe
-Qn 5 => ??
+Qn 5 => 192.168.72.130
 
 tcpdump -A -i lo host 192.168.1.198
