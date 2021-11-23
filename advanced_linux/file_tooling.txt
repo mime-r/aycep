@@ -1,0 +1,18 @@
+Qn 1 => keys
+Qn 2 => gunzip -r keys
+Qn 3 => 11
+
+Steps:
+cd keys
+ls | grep ".*34I.*"
+ls | grep ".*35I.*"
+
+Qn 4 => C0v3rt1ng_h3xaD3c!m4Ls
+
+Steps:
+go to https://www.dcode.fr/ascii-code
+enter in 7b433076337274316e675f68337861443363216d344c737d0a
+
+Qn 5 => $6$OmHNFPt0i0WRfNGu$90JOe0kBssBafCgov5jY56AfWOKAzHwlqa1R.Go6jfbHh4LZqGvjpkKYevb013HE8hJYKtj84s1IL3qsZJRH31
+
+xxd /etc/shadow | xxd -r
