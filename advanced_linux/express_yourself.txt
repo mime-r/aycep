@@ -1,0 +1,14 @@
+Qn 1 => ruth@less.com
+
+Steps:
+1. grep ".*@.*." apache.log
+
+Qn 2 => 204.24.193.224
+
+Qn 3 => payment.html
+
+Steps:
+1. grep "204.24.193.224" apache.log
+
+Qn 4 => ??
+Qn 5 => ??
