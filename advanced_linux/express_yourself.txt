@@ -10,5 +10,5 @@ Qn 3 => payment.html
 Steps:
 1. grep "204.24.193.224" apache.log
 
-Qn 4 => ??
-Qn 5 => ??
+Qn 4 => Th@!_@!_h*w_Y*u_Wr@t=_=+Pr=!!@*n!-
+Qn 5 => This_is_h0w_Y0u_Write_e+Pressi0ns-
