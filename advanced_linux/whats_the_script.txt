@@ -1,0 +1,14 @@
+Qn 1 => N3ed_m4ny_p@ram3teRz
+
+Steps:
+1. sudo ./1-params 1 2 3 4 5
+
+Qn 2 => C0nd1ti0nal_ch3Ck1ng
+
+Steps:
+1. sudo ./2-question 0 0 HelloWorld
+
+Qn 3 => L00ping_tO_Ca1cUL@t3
+
+Steps:
+1. add total=7569 to 3-loops using vi
