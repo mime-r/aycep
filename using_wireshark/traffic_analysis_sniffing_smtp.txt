@@ -1,0 +1,6 @@
+Qn 1 => smtp
+Qn 2 => 192.168.3.9:25
+Qn 3 => blackhilaal:learntohack123
+Qn 4 => idrismoreno@gmail.com
+Qn 5 => attachment1.zip
+Qn 6 => Learning to Hack is a long and tedious but fruitful process.
