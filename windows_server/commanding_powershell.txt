@@ -1,0 +1,12 @@
+Qn 1 => dir, ls, gci
+Qn 2 => BE20164B4DE7B395DFEB1045BDB5B474
+
+ls | OutFile sometext.txt
+checkfiles
+
+Qn 3 => 7EC7CE238BF60703F669437C1C409D03
+
+gci | Rename-Item -NewName { $_ -replace "Copy", "Paste" };
+checkrename
+
+Qn 4 => $total = [int]$var1 + [int]$var2
