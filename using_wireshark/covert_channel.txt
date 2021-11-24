@@ -1,0 +1,5 @@
+Qn 1 => 192.168.125.132
+Qn 2 => TXT
+Qn 3 => evildomain.cn
+Qn 4 => root/Documents/confidential.txt
+Qn 5 => 06:35:43
